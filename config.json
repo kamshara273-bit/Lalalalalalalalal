@@ -25,17 +25,14 @@
 "ignoreCommand": []
 },
 "adminBot": [
-"61592778947207",
-"61592853883908"
+"61592853883908","61592853883908"
 ],
 "developer": [
 "61592853883908",
-"61592778947207"
-
+"61592853883908"
 ],
 "vipuser": [
-"61592853883908",
-"61592778947207"
+"61592853883908","61592853883908"
 ],
 "reactBy": {
 "delete": ["🗑️", "❌", "😠", "😡", "😾"],
@@ -97,9 +94,8 @@
 "enable": false,
 "ignoreCmds": "",
 "ignoreEvents": "",
-
-"notes": "this feature will automatically load the script when scripts have been changed, you can set ignoreCmds to ignore commands, ignoreEvents to ignore events, separate by comma or space, example: \"cmd1.js cmd2.js cmd3.js\" (without backslash)"
-
+"notes": "this feature will automatically load the script when scripts have been changed, you can set ignoreCmds to ignore commands, ignoreEvents to ignore events, separate by comma or space, example: "cmd1.js cmd2.js cmd3.js" (without backslash)"
+},
 "autoRefreshFbstate": true,
 "autoReloginWhenChangeAccount": false,
 "autoRestartWhenListenMqttError": false,
